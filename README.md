@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ar1st1d3
-- 👀 I’m interested in
+- 👋 Hi, I’m @presidentpug#1572
+- 👀 I’m interested in robotics, cybersecurity and action automation
 - 💞️ I love the pugs
 
 <!---
